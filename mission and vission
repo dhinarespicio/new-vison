@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saint Joseph College of Baggao</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <!-- Image inside header -->
+        <img src="./download.png" alt="Saint Joseph College of Baggao Logo" class="header-logo">
+        <h1>SAINT JOSEPH COLLEGE OF BAGGAO</h1>
+    </header>
+    
+    <nav>
+        <nav>
+            <ul>
+                <li><a href="#mission">MISSION</a></li>
+                <li><a href="#vision">VISION</a></li>
+                <li><a href="#values">VALUES</a></li>
+                <li><a href="#program">PROGRAM</a></li>
+            </ul>
+        </nav>
+        <section id="mission" class="content">
+            <h1>MISSION</h1>
+            <h2>SPIRITUALITY</h2>
+            <p>To be witnesses of our faith by cultivating a spirituality rooted in the Word of God, nourished by the sacraments, and lived in humble loving service, especially to the poor.</p>
+            
+            <h2>TRANSFORMATIVE EDUCATION</h2>
+            <p>To provide Catholic education leading to a conversion that transforms persons and communities.</p>
+            <h2>ADVOCACY</h2>
+            <p>To uphold the principles of social justice, peace, truth, and ecological stewardship towards an engaged citizenship.</p>
+            <h2>RESEARCH</h2>
+            <p>To foster a vibrant and stimulating culture of research.</p>
+            <h2>SYNODALITY</h2>
+            <p>To promote a culture of care, dialogue, and collaboration among all the stakeholders as a dynamic participation in the life and mission of the Church.</p>
+        </section>
+        <section id="vision" class="content">
+            <h1>VISION</h1>
+            <p>SJCB as a premier Catholic Higher Educational Institution in Northern Philippines is Christ-centered, inspired by the spirit of synodality that fosters communion and participation in the evangelizing mission of the Church through transformative education.</p>
+        </section>
+        <section id="values" class="content">
+            <h1>VALUES</h1>
+            <p>1. Faith manifested in the active participation in the life and mission of the Church;</p>
+            <p>2. Love made tangible by corporal and spiritual works of mercy.</p>
+            <p>3. Care for the environment by nurturing, protecting, and promoting the integrity of creation;</p>
+            <p>4. Excellence in academics, research, community engagement, spiritual, sports, and socio-cultural activities;</p>
+            <p>5. Collaboration shown in meaningful partnerships with Parents, Alumni, government and non-government agencies and organizations.</p>
+        </section>
+        <section id="program" class="content">
+            <h1>PROGRAMS</h1>
+            <h4>BSIT (Bachelor of Science in Information Technology)</h4>
+            <p>Focuses on computer systems, programming, networking, cybersecurity, and software development.</p>
+            
+            <h4>BEED (Bachelor of Elementary Education)</h4>
+            <p>Prepares students to become effective elementary school teachers.</p>
+            
+            <h4>BSCRIM (Bachelor of Science in Criminology)</h4>
+            <p>Trains students in law enforcement, criminal justice, forensic science, and crime prevention.</p>
+            
+            <h4>BSTM (Bachelor of Science in Tourism Management)</h4>
+            <p>Focuses on hospitality, tourism operations, event planning, and travel management.</p>
+            
+            <h4>BSBA (Bachelor of Science in Business Administration)</h4>
+            <p>Provides knowledge in business management, marketing, finance, and entrepreneurship.</p>
+        </section>
